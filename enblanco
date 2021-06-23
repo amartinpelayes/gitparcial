@@ -1,0 +1,1 @@
+sequelize model:generate --name Products --attributes name:string,price:decimal,stock:integer,stock_min:integer,stock_max:integer,brandsId:integer,categoriesId:integer,gendersId:integer,imagesId:integer,orderDetailsId:integer
